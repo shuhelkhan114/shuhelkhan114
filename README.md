@@ -19,6 +19,7 @@ Currently: leading a 12-person React Native team on AI features for healthtech a
 #### Open source
 
 - [expo-supabase-agents](https://github.com/shuhelkhan114/expo-supabase-agents), single-purpose LLM agents as Supabase Edge Functions, chained through table rows, streamed live to an Expo app
+- [semantic-search-fallback](https://github.com/shuhelkhan114/semantic-search-fallback), natural-language search that always answers: LLM query enrichment, embeddings, fuzzy fallback, and a stage label on every response
 
 #### Stats
 
