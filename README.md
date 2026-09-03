@@ -16,6 +16,10 @@ Currently: leading a 12-person React Native team on AI features for healthtech a
 | **LYVE** | Ticket and costume marketplace for carnival-goers | Project lead, Stripe escrow, GetStream chat | 3,000+ users, [App Store](https://apps.apple.com/np/app/the-lyve-app/id6482293377) |
 | **NewTree** | Local events and community discovery | Solo full-stack build, Expo + Supabase | [App Store](https://apps.apple.com/us/app/newtree-social/id6776629723) |
 
+#### Open source
+
+- [expo-supabase-agents](https://github.com/shuhelkhan114/expo-supabase-agents), single-purpose LLM agents as Supabase Edge Functions, chained through table rows, streamed live to an Expo app
+
 #### Stats
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=shuhelkhan114&hide_border=true&theme=default" alt="contribution streak" />
